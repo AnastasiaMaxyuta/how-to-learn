@@ -99,7 +99,7 @@
   color: #2f80ed;
   margin-bottom: 0;
 }
-.two-columns__two-columns_main-text {
+.two-columns__main-text {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -116,7 +116,7 @@
 .two-columns__paragraph:last-child {
   margin-bottom: 0;
 }
-.two-columns__span-columns {
+.two-columns__span-accent {
   font-weight: bold;
 }
 .digits {
@@ -220,7 +220,7 @@
   top: 50%;
   text-decoration: none;
 }
-.feynman-illustration {
+.feynman__illustration {
   position: absolute;
   bottom: 0;
   left: 0;
